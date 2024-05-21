@@ -33,7 +33,7 @@ orden_tablas = [
     "nota_credito_nota_NC","item_producto_factura_compra_excenta","item_servicio_factura_compra_excenta", "item_producto_nota_credito_NC_compra",
     "item_servicio_nota_credito_NC_compra","nota_credito_nota_NC_compra","nota_factura_compra_excenta",
     "nota_factura_compra", "administracion_por_clasificar", "item_producto_factura_venta", "item_producto_nota_credito",
-    "pagos_factura_compra_excenta","item_servicio_factura_venta"
+    "pagos_factura_compra_excenta","item_servicio_factura_venta", "orden_trabajo_FVE", "orden_trabajo_FV"
 
 
 ]
